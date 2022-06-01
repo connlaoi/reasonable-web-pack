@@ -6,10 +6,10 @@
   "repository": "https://github.com/connlaoi/reasonable-web-pack",
   "icon": "images/icon.png",
   "galleryBanner": {
-    "color": "#C80000",
+    "color": "#0e1217",
     "theme": "dark"
   },
-  "version": "0.0.4",
+  "version": "0.0.5",
   "engines": {
     "vscode": "^1.67.0"
   },
