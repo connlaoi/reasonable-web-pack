@@ -4,6 +4,7 @@
   "publisher": "ReasonableCode",
   "description": "Collection of commonly used front-end web development extensions.",
   "repository": "https://github.com/connlaoi/reasonable-web-pack",
+  "icon": "https://github.com/connlaoi/reasonable-web-pack/blob/main/icon.png?raw=true",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.67.0"
