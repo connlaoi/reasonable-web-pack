@@ -1,7 +1,9 @@
 {
   "name": "reasonable-web-pack",
   "displayName": "Reasonable Web Pack",
-  "description": "Collection of front-end web development extensions for a Node, React, ESLint, Prettier, and Jest stack.",
+  "publisher": "ReasonableCode",
+  "description": "Collection of commonly used front-end web development extensions.",
+  "repository": "https://github.com/connlaoi/reasonable-web-pack",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.67.0"
